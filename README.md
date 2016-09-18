@@ -5,7 +5,7 @@
 - All typeforms must be given a hidden field with the following format route_(update/receive)_(participant/judge/speaker/mentor) (e.g. route_receive_participant would be the route for new participant registration)
 - receive or update refers to whether you are creating a new person or simply updating one
 - for update forms, you must also add an email hidden field
-- to ensure that the correct person is updated when an update form is sent out, use mailchimp merge tags to fill in the email hidden field so that people can be identified automatically
+- to ensure that the correct person is updated when an update form is sent out, use mailchimp merge tags to fill in the email hidden field so that people can be identified automatically (append email=xxxx to the url)
 - the participant/judge/speaker/mentor refers to the role the person will play in an event
 - the following roles are currently supported
 	* participant
