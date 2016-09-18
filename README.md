@@ -14,14 +14,15 @@
 	* mentor
 - the questions for the forms must contain keywords, which are the model fields (e.g. what is your first name would be a good question for first_name, see the the Ideate Registration typeform for more examples)
 - keywords can only be used in ONE question, if it's used in multiple questions, information may be overwritten in the database
-- dropdowns can be made by placing the txt documents in this repository into the choices option for dropdown
-- informatino for multiple choice questions are also included in this repository
+- dropdowns can be made by placing the text documents in this repository into the choices option for dropdown
+- information for multiple choice questions are also included in this repository
 - the type of typeform element that should be used for each question is included in parenthesis
 - for all roles, you can include the following keywords/questions
 	* email (this field is mandatory) (email)
 	* first name (short text)
 	* last name (short text)
 	* gender (multiple choice - no multiple selections) 
+	* dietary restrictions (short text)
 	* ethnicity (multiple choice - no multiple selections) 
 	* phone (short text)
 - for participants, the following are currently supported: 
@@ -30,7 +31,6 @@
   * attending (used for confirmation) (yes/no)
   * major (dropdown)
   * school (dropdown)
-  * dietary restrictions (short text)
   * website (website)
   * resume (file upload)
   * github (website)
