@@ -294,5 +294,159 @@ University of Pennsylvania
 University of Pittsburgh
 University of Puget Sound
 University of the Pacific
-Queens University - Kingston, Ontario Quinnipiac University
+Queens University - Kingston, Ontario 
+Quinnipiac University
 Randolph College
+Randolph-Macon College
+Reed College
+Regis University
+Rensselaer Polytechnic Institute
+Rhode Island school of Design
+Rhodes College - Memphis
+Rice University
+Rider University
+Ripon College
+Rochester Institute of Technology
+Rollins College
+Rose-Hulman Institute of Technology
+Rowan University
+Rutgers
+University of Redlands
+University of Rhode Island
+University of Richmond
+University of Rochester
+Sacred Heart University
+Saint Anselm College
+St. Bonaventure University
+St. John's College (Maryland)
+St. John's College (New Mexico)
+St. John's University
+Saint John's University - College of Saint Benedict
+Saint Joseph's University
+St. Lawrence University
+Saint Louis University
+Saint Mary's College - Notre Dame
+Saint Mary's College of California
+St. Mary's College of Maryland
+Saint Michael's College
+Saint Olaf College
+Salisbury University
+Salve Regina University
+Samford University
+San Diego State University
+San Francisco State University
+Santa Clara University
+Sarah Lawrence College
+Savannah College of Art and Design
+School of Visual Arts
+Scripps College
+Seattle University
+Seton Hall University
+Sewanee: The University of the South
+Shimer College
+Siena College
+Simmons College
+Simon's Rock College of Bard
+Skidmore College
+Smith College - Link
+Soka University of America
+Sonoma State University
+Southern Methodist University
+Southwestern University
+Spelman College
+Stanford University - Link
+Stephens College
+Stetson University
+Stevens Institute of Technology
+Stevenson University
+Stonehill College
+SUNY - General
+SUNY at Albany
+SUNY at Binghamton
+SUNY at Buffalo
+SUNY at Stony Brook
+SUNY College at Geneseo
+SUNY College at Purchase
+Susquehanna University
+Swarthmore College
+Sweet Briar College
+Syracuse University
+University of San Diego
+University of San Francisco
+University of Scranton
+University of South Carolina - Columbia
+University of South Florida
+University of Southern California
+TCU
+Temple University
+Texas A&M University
+Texas Tech University
+The University of Texas at Austin
+The University of Texas at Dallas
+Thomas Aquinas College - California
+Towson University
+Trinity College - Connecticut
+Trinity University
+Truman State University
+Tufts University
+Tulane University
+Tuskegee University
+University of Tampa
+University of Tennessee - Knoxville
+University of Toronto
+University of Tulsa
+Union College - New York
+United States Air Force Academy
+United States Coast Guard Academy
+United States Merchant Marine Academy
+United States Military Academy
+United States Naval Academy 
+University of the Sciences in Philadelphia
+Ursinus College
+Ursuline College
+University of Vermont
+University of Virginia
+Valparaiso University
+Vanderbilt University 
+Vassar College
+Villanova University
+Virginia Commonwealth University
+Virginia Tech
+Virginia Wesleyan College
+College of William and Mary
+College of Wooster
+University of Washington
+University of Wisconsin - Madison
+University of Wyoming
+Wabash College
+Wagner College
+Wake Forest University
+Warren Wilson College
+Washington and Lee University
+Washington College
+Washington State University
+Washington University in St. Louis
+University of Waterloo
+Webb Institute
+Wellesley College
+Wells College
+Wesleyan College
+Wesleyan University
+West Virginia University
+Western Michigan University
+Western Washington University
+Westminster College - Pennsylvania
+Wheaton College - Illinois
+Wheaton College - Massachusetts
+Whitman College
+Whittier College
+Willamette University
+William Jewell College
+Williams College
+Wittenberg University
+Wofford College
+Worcester Polytechnic Institute
+Wright State University
+Xavier University
+Yale University
+Yeshiva University
