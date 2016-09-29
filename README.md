@@ -12,6 +12,7 @@
 	* judge
 	* speaker
 	* mentor
+	* volunteer
 - the questions for the forms must contain keywords, which are the model fields (e.g. what is your first name would be a good question for first_name, see the the Ideate Registration typeform for more examples)
 - keywords can only be used in ONE question, if it's used in multiple questions, information may be overwritten in the database
 - dropdowns can be made by placing the text documents in this repository into the choices option for dropdown
@@ -47,3 +48,8 @@
 	* date (date)
 - for judges, 
 	* skills (short text)
+- for volunteers,
+	* times (multiple choice)
+	* size (multiple choice - no multiple selections)
+	* custom - must be prefixed with Q: (e.g. Q: Why do you want to attend HackDuke?) (short text)
+	* hours (number)
