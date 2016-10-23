@@ -41,7 +41,7 @@
   * track (multiple choice)
   * custom - must be prefixed with Q: (e.g. Q: Why do you want to attend HackDuke?) (short text)
 - for mentors, 
-	* skills (short text)
+	* skills (multiple choice)
 	* track (multiple choice)
 - for speakers, 
 	* topic (short text)
