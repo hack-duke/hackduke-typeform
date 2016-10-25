@@ -26,6 +26,7 @@
 	* dietary restrictions (short text)
 	* ethnicity (multiple choice - no multiple selections) 
 	* phone (short text)
+	* emergency contacts (short text)
 - for participants, the following are currently supported: 
   * graduation year (multiple choice - no multiple selections)
   * over eighteen (yes/no)
